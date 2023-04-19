@@ -1,0 +1,14 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Mapty-Deploy",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Harsh Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
